@@ -24,8 +24,8 @@ npx aparup
 
 ### _or_
 
-### [🌐 visit my portfolio]
-aparupakhuli.com
+### https://aparupakhuli.com[🌐 visit my portfolio]
+
 
 <br />
 <br />
