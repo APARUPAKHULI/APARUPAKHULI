@@ -10,7 +10,7 @@
 
 ## Get my business card in your command line
 ```bash
-npx aparup.
+npx aparup
 ```
 
 
@@ -25,6 +25,7 @@ npx aparup.
 ### _or_
 
 ### [🌐 visit my portfolio]
+aparupakhuli.com
 
 <br />
 <br />
